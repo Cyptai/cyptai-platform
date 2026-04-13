@@ -24,23 +24,14 @@ CyPTAI introduces a continuous, AI-driven penetration testing model that:
 ## 📸 Platform Screenshots
 
 <p align="center">
-  <img src="cyptai_screenshots/dashboard.png" width="500"/>
+  <img src="cyptai_screenshots/dashboard.png" width="250"/>
+  <img src="cyptai_screenshots/assessments.png" width="250"/>
+  <img src="cyptai_screenshots/attack-graph.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="cyptai_screenshots/assessments.png" width="500"/>
-</p>
-
-<p align="center">
-  <img src="cyptai_screenshots/attack-graph.png" width="500"/>
-</p>
-
-<p align="center">
-  <img src="cyptai_screenshots/reports.png" width="500"/>
-</p>
-
-<p align="center">
-  <img src="cyptai_screenshots/findings.png" width="500"/>
+  <img src="cyptai_screenshots/reports.png" width="250"/>
+  <img src="cyptai_screenshots/findings.png" width="250"/>
 </p>
 ## 💼 Value
 - Faster threat detection  
