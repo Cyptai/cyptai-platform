@@ -42,7 +42,6 @@ CyPTAI introduces a continuous, AI-driven penetration testing model that:
 <p align="center">
   <img src="cyptai_screenshots/findings.png" width="500"/>
 </p>
-
 ## 💼 Value
 - Faster threat detection  
 - Reduced risk  
