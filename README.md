@@ -1,12 +1,32 @@
-# cyptai-platform
-AI-powered cybersecurity platform for automated penetration testing and intelligent risk analysis.
 #  CyPTAI – AI-Powered Cybersecurity Platform
 
 ##  Overview
 CyPTAI is an AI-powered cybersecurity platform designed to automate penetration testing and enhance security operations in modern digital environments.
 
-## Solution
-CyPTAI performs continuous, automated penetration testing using intelligent agents to discover vulnerabilities, analyze risks, and provide actionable remediation.
+## The Problem
+Organizations today face increasing cyber threats, complex environments, and delayed security response due to traditional and limited testing approaches.
+
+## The Solution
+CyPTAI introduces a continuous, AI-driven penetration testing model that:
+- Discovers vulnerabilities  
+- Analyzes risks  
+- Prioritizes threats  
+- Generates actionable security reports  
+
+##  How It Works
+1. Understands the target environment  
+2. Simulates real-world attacks safely  
+3. Analyzes vulnerabilities  
+4. Prioritizes risks  
+5. Provides remediation actions  
+6. Generates detailed security reports  
+
+## Screenshots
+<p align="center">
+  <img src="screenshots/dashboard.png" width="250"/>
+  <img src="screenshots/results.png" width="250"/>
+  <img src="screenshots/analysis.png" width="250"/>
+</p>
 
 ## Value
 - Faster threat detection  
@@ -14,12 +34,10 @@ CyPTAI performs continuous, automated penetration testing using intelligent agen
 - Lower operational cost  
 - Continuous security validation  
 
-## Repository Access Notice
-This repository is a public showcase version.
+##  Repository Notice
+This repository is a public showcase version prepared for hackathon participation.
 
-The full implementation is maintained in a Gitlab private repository due to intellectual property and security considerations.
-
-Restricted access or live demo can be provided upon request.
+The full implementation exists in a private repository and cannot be shared publicly due to intellectual property and security considerations.
 
 ##  Contact
 aaldossari@cypt.ai
