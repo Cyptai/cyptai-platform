@@ -23,29 +23,24 @@ CyPTAI introduces a continuous, AI-driven penetration testing model that:
 
 ## 📸 Platform Screenshots
 
-### Dashboard
 <p align="center">
-  <img src="screenshots/dashboard.png" width="600"/>
+  <img src="screenshots/dashboard.png" width="500"/>
 </p>
 
-### Assessments & Mission Planning
 <p align="center">
-  <img src="screenshots/assessments.png" width="600"/>
+  <img src="screenshots/assessments.png" width="500"/>
 </p>
 
-### Attack Graph Visualization
 <p align="center">
-  <img src="screenshots/attack-graph.png" width="600"/>
+  <img src="screenshots/attack-graph.png" width="500"/>
 </p>
 
-### Reports & Results
 <p align="center">
-  <img src="screenshots/reports.png" width="600"/>
+  <img src="screenshots/reports.png" width="500"/>
 </p>
 
-### Findings & Analysis
 <p align="center">
-  <img src="screenshots/findings.png" width="600"/>
+  <img src="screenshots/findings.png" width="500"/>
 </p>
 
 ## 💼 Value
