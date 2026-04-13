@@ -17,7 +17,7 @@ CyPTAI performs continuous, automated penetration testing using intelligent agen
 ## Repository Access Notice
 This repository is a public showcase version.
 
-The full implementation is maintained in a private repository due to intellectual property and security considerations.
+The full implementation is maintained in a Gitlab private repository due to intellectual property and security considerations.
 
 Restricted access or live demo can be provided upon request.
 
