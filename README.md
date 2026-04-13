@@ -1,5 +1,7 @@
 # 🛡️ CyPTAI – AI-Powered Cybersecurity Platform
 
+Public showcase repository prepared for hackathon evaluation.
+
 ## 📌 Overview
 CyPTAI is an AI-powered cybersecurity platform designed to automate penetration testing and enhance security operations in modern digital environments.
 
@@ -23,16 +25,41 @@ CyPTAI introduces a continuous, AI-driven penetration testing model that:
 
 ## 📸 Platform Screenshots
 
+### Dashboard
 <p align="center">
-  <img src="cyptai_screenshots/dashboard.png" width="250"/>
-  <img src="cyptai_screenshots/assessments.png" width="250"/>
-  <img src="cyptai_screenshots/attack-graph.png" width="250"/>
+  <a href="cyptai_screenshots/dashboard.png">
+    <img src="cyptai_screenshots/dashboard.png" width="400"/>
+  </a>
 </p>
 
+### Assessments & Mission Planning
 <p align="center">
-  <img src="cyptai_screenshots/reports.png" width="250"/>
-  <img src="cyptai_screenshots/findings.png" width="250"/>
+  <a href="cyptai_screenshots/assessments.png">
+    <img src="cyptai_screenshots/assessments.png" width="400"/>
+  </a>
 </p>
+
+### Attack Graph Visualization
+<p align="center">
+  <a href="cyptai_screenshots/attack-graph.png">
+    <img src="cyptai_screenshots/attack-graph.png" width="400"/>
+  </a>
+</p>
+
+### Reports & Results
+<p align="center">
+  <a href="cyptai_screenshots/reports.png">
+    <img src="cyptai_screenshots/reports.png" width="400"/>
+  </a>
+</p>
+
+### Findings & Analysis
+<p align="center">
+  <a href="cyptai_screenshots/findings.png">
+    <img src="cyptai_screenshots/findings.png" width="400"/>
+  </a>
+</p>
+
 ## 💼 Value
 - Faster threat detection  
 - Reduced risk  
