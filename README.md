@@ -1,19 +1,19 @@
-#  CyPTAI – AI-Powered Cybersecurity Platform
+# 🛡️ CyPTAI – AI-Powered Cybersecurity Platform
 
-##  Overview
+## 📌 Overview
 CyPTAI is an AI-powered cybersecurity platform designed to automate penetration testing and enhance security operations in modern digital environments.
 
-## The Problem
-Organizations today face increasing cyber threats, complex environments, and delayed security response due to traditional and limited testing approaches.
+## 🎯 The Problem
+Organizations face increasing cyber threats, complex environments, and delayed security response due to traditional and limited testing approaches.
 
-## The Solution
+## 🚀 The Solution
 CyPTAI introduces a continuous, AI-driven penetration testing model that:
 - Discovers vulnerabilities  
 - Analyzes risks  
 - Prioritizes threats  
 - Generates actionable security reports  
 
-##  How It Works
+## ⚙️ How It Works
 1. Understands the target environment  
 2. Simulates real-world attacks safely  
 3. Analyzes vulnerabilities  
@@ -21,23 +21,43 @@ CyPTAI introduces a continuous, AI-driven penetration testing model that:
 5. Provides remediation actions  
 6. Generates detailed security reports  
 
-## Screenshots
+## 📸 Platform Screenshots
+
+### Dashboard
 <p align="center">
-  <img src="1/dashboard.png" width="250"/>
-  <img src="2/results.png" width="250"/>
-  <img src="3/analysis.png" width="250"/>
+  <img src="screenshots/dashboard.png" width="600"/>
 </p>
 
-## Value
+### Assessments & Mission Planning
+<p align="center">
+  <img src="screenshots/assessments.png" width="600"/>
+</p>
+
+### Attack Graph Visualization
+<p align="center">
+  <img src="screenshots/attack-graph.png" width="600"/>
+</p>
+
+### Reports & Results
+<p align="center">
+  <img src="screenshots/reports.png" width="600"/>
+</p>
+
+### Findings & Analysis
+<p align="center">
+  <img src="screenshots/findings.png" width="600"/>
+</p>
+
+## 💼 Value
 - Faster threat detection  
 - Reduced risk  
 - Lower operational cost  
 - Continuous security validation  
 
-##  Repository Notice
+## 🔒 Repository Notice
 This repository is a public showcase version prepared for hackathon participation.
 
 The full implementation exists in a private repository and cannot be shared publicly due to intellectual property and security considerations.
 
-##  Contact
+## 📩 Contact
 aaldossari@cypt.ai
